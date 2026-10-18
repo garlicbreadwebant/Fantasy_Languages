@@ -1,0 +1,157 @@
+{
+  "toki-pona": {
+    "name": "Toki Pona",
+    "tagline": "Small vocabulary. Expansive thinking.",
+    "description": "Explore a minimalist living constructed language through context and simple expressions.",
+    "greeting": "toki",
+    "example": "mi moku e kili.",
+    "translation": "I eat fruit.",
+    "facts": [
+      "Context matters",
+      "Minimal vocabulary",
+      "Living community"
+    ],
+    "greetingMeaning": "Hello. A place to begin.",
+    "version": "0.1.0",
+    "established": true,
+    "collectionNote": "A learning collection of an existing constructed language. English lookup coverage does not imply a verified translation for every entry. See the design notes for sources and limits.",
+    "examples": [
+      {
+        "sentence": "mi moku e kili.",
+        "translation": "I eat fruit."
+      },
+      {
+        "sentence": "mi moku e telo.",
+        "translation": "I drink water."
+      },
+      {
+        "sentence": "sina moku ala moku?",
+        "translation": "Are you eating?"
+      }
+    ]
+  },
+  "lojban": {
+    "name": "Lojban",
+    "tagline": "Logical patterns. Precise relationships.",
+    "description": "Discover a language built around predicates and explicitly structured relationships.",
+    "greeting": "coi",
+    "example": "mi pinxe lo djacu",
+    "translation": "I drink water.",
+    "facts": [
+      "Predicate logic",
+      "Place structures",
+      "Explicit grammar"
+    ],
+    "greetingMeaning": "Hello. A place to begin.",
+    "version": "0.1.0",
+    "established": true,
+    "collectionNote": "A learning collection of an existing constructed language. English lookup coverage does not imply a verified translation for every entry. See the design notes for sources and limits.",
+    "examples": [
+      {
+        "sentence": "mi pinxe lo djacu",
+        "translation": "I drink water."
+      },
+      {
+        "sentence": "mi citka lo plise",
+        "translation": "I eat an apple."
+      },
+      {
+        "sentence": "xu do pinxe lo djacu",
+        "translation": "Do you drink water?"
+      }
+    ]
+  },
+  "volapuk": {
+    "name": "Volapük",
+    "tagline": "A world language. A remarkable history.",
+    "description": "Meet a pioneering international auxiliary language with a distinctive sound and regular inflection.",
+    "greeting": "Glidis!",
+    "example": "Ob binob studan.",
+    "translation": "I am a student.",
+    "facts": [
+      "Auxiliary language",
+      "Case endings",
+      "Distinctive vowels"
+    ],
+    "greetingMeaning": "Greetings. A place to begin.",
+    "version": "0.1.0",
+    "established": true,
+    "collectionNote": "A learning collection of an existing constructed language. English lookup coverage does not imply a verified translation for every entry. See the design notes for sources and limits.",
+    "examples": [
+      {
+        "sentence": "Ob binob studan.",
+        "translation": "I am a student."
+      },
+      {
+        "sentence": "Ob drinob vati.",
+        "translation": "I drink water."
+      },
+      {
+        "sentence": "Glidis!",
+        "translation": "Greetings!"
+      }
+    ]
+  },
+  "lingua-ignota": {
+    "name": "Lingua Ignota",
+    "tagline": "Medieval words. An enduring mystery.",
+    "description": "Explore Hildegard of Bingen’s historical glossary through documented words and their surviving Latin glosses.",
+    "greeting": "Aigonz",
+    "example": "Aigonz",
+    "translation": "God (isolated glossary word; not a sentence).",
+    "facts": [
+      "Medieval glossary",
+      "Limited attestation",
+      "No complete grammar"
+    ],
+    "greetingMeaning": "God · a documented glossary word",
+    "version": "0.1.0",
+    "established": true,
+    "collectionNote": "A historical glossary study. Unverified equivalents are explicitly marked; modern conversational grammar and greetings are not invented.",
+    "examples": [
+      {
+        "sentence": "Aigonz",
+        "translation": "God (isolated glossary word)."
+      },
+      {
+        "sentence": "Peueriz",
+        "translation": "Father (isolated glossary word)."
+      },
+      {
+        "sentence": "Maiz",
+        "translation": "Mother (isolated glossary word)."
+      }
+    ]
+  },
+  "solresol": {
+    "name": "Solresol",
+    "tagline": "Seven notes. Another way to speak.",
+    "description": "Explore François Sudre’s musical language through its seven syllables and historical word families.",
+    "greeting": "simi",
+    "example": "dore",
+    "translation": "I / me (isolated pronoun).",
+    "facts": [
+      "Seven syllables",
+      "Musical vocabulary",
+      "Historical variants"
+    ],
+    "greetingMeaning": "Hello. A place to begin.",
+    "version": "0.1.0",
+    "established": true,
+    "collectionNote": "A learning collection of an existing constructed language. English lookup coverage does not imply a verified translation for every entry. See the design notes for sources and limits.",
+    "examples": [
+      {
+        "sentence": "dore",
+        "translation": "I / me (isolated pronoun)."
+      },
+      {
+        "sentence": "domi",
+        "translation": "You (isolated pronoun)."
+      },
+      {
+        "sentence": "redo",
+        "translation": "My / mine (isolated possessive)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "toki-pona": {
+    "headwords": 397,
+    "supplied": 373,
+    "unresolved": 24
+  },
+  "lojban": {
+    "headwords": 397,
+    "supplied": 377,
+    "unresolved": 20
+  },
+  "volapuk": {
+    "headwords": 397,
+    "supplied": 200,
+    "unresolved": 197
+  },
+  "lingua-ignota": {
+    "headwords": 397,
+    "supplied": 26,
+    "unresolved": 371
+  },
+  "solresol": {
+    "headwords": 397,
+    "supplied": 299,
+    "unresolved": 98
+  }
+}

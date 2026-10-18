@@ -1,0 +1,398 @@
+english,volapük,category,notes
+I / me,ob,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+you (singular),ol,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+he / she / it,—,pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+we / us,obs,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+you (plural),ols,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+they / them,ons,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+self,—,pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+someone,—,pronoun/noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+this / these,—,determiner/pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+that / those,—,determiner/pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+plural,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+some,—,quantifier,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+all / every,—,quantifier,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+few / little quantity,—,quantifier,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+of / related to,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+and,e,connector,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+or,—,connector,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+but,—,connector,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+because,—,connector,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+if,—,connector,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+end condition,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+past,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+future,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+ongoing,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+completed,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+not / no,no,particle,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+yes,si,particle,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+yes/no question,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+who,kel,question,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+what,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+where,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+when,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+how,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+how many / much,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+why,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+which,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+content clause start,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+content clause end,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+relative clause start,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+relative clause end,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+relative reference,—,pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+at / in,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+on / above,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+under,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+to / toward,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+from,de,relation,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+with,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+without,nen,relation,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+for,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+using / by means of,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+between,bevü,relation,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+than / compared with,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+manner marker,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+more,—,degree,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+most,—,degree,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+very,—,degree,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+equally,—,degree,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+can / able,—,modal,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+must / obliged,—,modal,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+want,—,modal/verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+be,binön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+exist,sibinön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+see,logön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+hear,lilön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+look at,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+know,sevön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+understand,kapälön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+learn,lärnön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+teach,tidön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+read,lilädön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+write,penön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+speak / say,pükön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+ask,säkön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+eat,fidön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+drink,drinön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+go,golön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+come,kömön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+walk,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+run,gonön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+sleep,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sit,siedön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+stand,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+stay,stebön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+live / be alive,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+die,deilön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+help,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+love,löfön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+like / enjoy,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+need,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+have / possess,labön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+give,givön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+take,sumön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+bring,blinön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+make / cause,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+use,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+work,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+open,manifik,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+close,jötön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+begin,beginön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+finish,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+allow,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+choose,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+buy,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sell,selön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+find,tuvön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+lose,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+remember,memön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+forget,fögetön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+think,-ön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+feel,senön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+wait,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+touch,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+cut,köt,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+become,vedön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+person,men,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+child,cil,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+parent,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+mother,mot,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+father,fat,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+sibling,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+family,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+friend,flen,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+body,kop,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+head,kap,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+eye,log,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+ear,lil,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+mouth,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+hand,nam,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+foot,fut,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+heart,lad,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+skin,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+water,vat,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+food,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+air,lut,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+fire,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+earth / soil,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sun,sol,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+moon,mun,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+star,stel,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+sky,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+rain,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+river,flum,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+sea,mel,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+mountain,bel,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+tree,bim,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+plant,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+animal,nim,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+bird,böd,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+fish,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+stone,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+house / home,dom,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+room,cem,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+door,yan,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+book,buk,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+paper,pöp,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+clothing,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+tool,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+road / path,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+city,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+country,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+world,vol,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+place,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+time,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+day,del,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+night,neit,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+week,vig,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+month,mud,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+year,yel,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+name,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+word,vöd,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+language,pük,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+idea,döl,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+life,lif,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+money,mon,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+number,num,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+question,säk,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+answer,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+problem,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+good,gudik,description,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+bad,badik,description,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+large,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+small,smalik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+long,lonedik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+short,blefik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+new,nulik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+old (age),—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+former,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+hot,hitik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+cold,kalod,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+clean,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+dirty,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+easy,nefikulik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+difficult,fikulik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+fast,cunön,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+slow,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+happy,beatik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+sad,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+ill,malädik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+healthy,saunik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+strong,stenüdik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+weak,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+true,velatik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+false,dobik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+same,ot,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+different,-ik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+important,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+beautiful,jönik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+full,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+empty,vagik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+red,ledik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+yellow,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+green,glünik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+blue,yulibik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+black,blägik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+white,vietik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+near,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+far,fagik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+here,is,adverb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+there,us,adverb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+now,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+yesterday,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+today,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+tomorrow,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+always,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sometimes,sotimo,adverb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+never,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+before,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+after,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+inside,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+outside,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+left,nedet,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+right,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+zero,ser,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+one,bal,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+two,tel,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+three,kil,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+four,fol,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+five,lul,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+six,mäl,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+seven,vel,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+eight,jöl,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+nine,zül,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+ten,deg,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+hundred,tum,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+thousand,mil,number,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+digit sequence,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+decimal point,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+negative number,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+divided by,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+ordinal marker,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+hello,glidis,phrase,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+goodbye,adyo,phrase,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+please,plidön,phrase,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+thank you,danö,phrase,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+you are welcome,—,phrase,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sorry,—,phrase,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+a / an,—,grammar,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+can / be able to,—,modal,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+future / will,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+must / have to,—,modal,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+no / not,no,particle,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+of / possessive link,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+ongoing action,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+question marker,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+the,—,grammar,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+you,ol,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+you all,ols,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+above / over,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+below / under,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+for / intended for,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+how many / how much,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+left (direction),nedet,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+on / on top of,su,relation,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+right (direction),—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+through,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+be / am / is / are,binön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+begin / start,beginön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+close / shut,jötön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+do / make,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+end / finish,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+exist / there is,sibinön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+have / own,labön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+say / speak,pükön,verb,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+stay / remain,stebön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+arm,lam,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+back (body),—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+city / town,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+country / nation,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+face,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+home / house,dom,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+light,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+man,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+person / human,men,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+thing / object,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+way / method,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+woman,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+big / large,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+fast / quickly,cunön,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+few / little (quantity),—,quantifier,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+good / well,gudik,description,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+many / much,—,quantifier,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+most (comparison),—,degree,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+old / former (not new),—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+only,—,degree,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sick / ill,malädik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+slow / slowly,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+true / correct,velatik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+wrong / incorrect,dobik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+excuse me / sorry,—,phrase,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+you're welcome,—,phrase,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+he,om,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+she,of,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+it,os,pronoun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+one / people,—,pronoun/noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+my,obik,relation,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+your,olik,relation,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+whether / question marker,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+that (clause),—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+in,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+on,su,relation,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+over,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+to,al,relation,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+from / of,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+about,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+before (place or time),—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+until,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+how much,—,question,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+this (thing),—,determiner/pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+that (thing),—,determiner/pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+often,ofen,adverb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+also,i,adverb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+already,ya,adverb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+still / yet,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+together,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+well,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+clearly,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+carefully,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+have,labön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+speak,pükön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+say,sagön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+know (a fact),sevön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+know (be acquainted),sevön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+can / be able,—,modal,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+live,lifön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+play,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+like,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+ask (a question),säkön,verb,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+repeat,—,verb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+big,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+old (not new),—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+young,yunik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+clear,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+other,votik,description,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+Esperanto,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sentence,set,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+school,jul,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+teacher,tidan,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+student,studan,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+house,dom,noun,Starter vocabulary; verbs are cited in the infinitive. Distinguish historical and reformed usage.
+window,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+table,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+chair,stul,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+garden,gad,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+country (land),—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+road,veg,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+bread,bod,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+fruit,fluk,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+apple,apod,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+milk,milig,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+tea,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+coffee,kaf,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+salt,sal,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+earth (soil),—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+flower,flol,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+dog,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+cat,kat,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+morning,gödel,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+evening,vendel,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+hour,düp,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+health,saun,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+peace,püd,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+music,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+answer (noun),—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+goal,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+choir,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+newspaper,gased,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+condition,stip,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+related,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+reference,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+manner,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sequence,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+digit,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+decimal,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+point,pün,noun,Historical Caviness bidirectional vocabulary; older usage may differ from modern Volapük. See Design notes.
+negative,—,description,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+minus,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+divide,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.

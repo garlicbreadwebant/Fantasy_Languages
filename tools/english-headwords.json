@@ -1,0 +1,1590 @@
+[
+  {
+    "english": "I / me",
+    "category": "pronoun"
+  },
+  {
+    "english": "you (singular)",
+    "category": "pronoun"
+  },
+  {
+    "english": "he / she / it",
+    "category": "pronoun"
+  },
+  {
+    "english": "we / us",
+    "category": "pronoun"
+  },
+  {
+    "english": "you (plural)",
+    "category": "pronoun"
+  },
+  {
+    "english": "they / them",
+    "category": "pronoun"
+  },
+  {
+    "english": "self",
+    "category": "pronoun"
+  },
+  {
+    "english": "someone",
+    "category": "pronoun/noun"
+  },
+  {
+    "english": "this / these",
+    "category": "determiner/pronoun"
+  },
+  {
+    "english": "that / those",
+    "category": "determiner/pronoun"
+  },
+  {
+    "english": "plural",
+    "category": "particle"
+  },
+  {
+    "english": "some",
+    "category": "quantifier"
+  },
+  {
+    "english": "all / every",
+    "category": "quantifier"
+  },
+  {
+    "english": "few / little quantity",
+    "category": "quantifier"
+  },
+  {
+    "english": "of / related to",
+    "category": "relation"
+  },
+  {
+    "english": "and",
+    "category": "connector"
+  },
+  {
+    "english": "or",
+    "category": "connector"
+  },
+  {
+    "english": "but",
+    "category": "connector"
+  },
+  {
+    "english": "because",
+    "category": "connector"
+  },
+  {
+    "english": "if",
+    "category": "connector"
+  },
+  {
+    "english": "end condition",
+    "category": "particle"
+  },
+  {
+    "english": "past",
+    "category": "particle"
+  },
+  {
+    "english": "future",
+    "category": "particle"
+  },
+  {
+    "english": "ongoing",
+    "category": "particle"
+  },
+  {
+    "english": "completed",
+    "category": "particle"
+  },
+  {
+    "english": "not / no",
+    "category": "particle"
+  },
+  {
+    "english": "yes",
+    "category": "particle"
+  },
+  {
+    "english": "yes/no question",
+    "category": "particle"
+  },
+  {
+    "english": "who",
+    "category": "question"
+  },
+  {
+    "english": "what",
+    "category": "question"
+  },
+  {
+    "english": "where",
+    "category": "question"
+  },
+  {
+    "english": "when",
+    "category": "question"
+  },
+  {
+    "english": "how",
+    "category": "question"
+  },
+  {
+    "english": "how many / much",
+    "category": "question"
+  },
+  {
+    "english": "why",
+    "category": "question"
+  },
+  {
+    "english": "which",
+    "category": "question"
+  },
+  {
+    "english": "content clause start",
+    "category": "particle"
+  },
+  {
+    "english": "content clause end",
+    "category": "particle"
+  },
+  {
+    "english": "relative clause start",
+    "category": "particle"
+  },
+  {
+    "english": "relative clause end",
+    "category": "particle"
+  },
+  {
+    "english": "relative reference",
+    "category": "pronoun"
+  },
+  {
+    "english": "at / in",
+    "category": "relation"
+  },
+  {
+    "english": "on / above",
+    "category": "relation"
+  },
+  {
+    "english": "under",
+    "category": "relation"
+  },
+  {
+    "english": "to / toward",
+    "category": "relation"
+  },
+  {
+    "english": "from",
+    "category": "relation"
+  },
+  {
+    "english": "with",
+    "category": "relation"
+  },
+  {
+    "english": "without",
+    "category": "relation"
+  },
+  {
+    "english": "for",
+    "category": "relation"
+  },
+  {
+    "english": "using / by means of",
+    "category": "relation"
+  },
+  {
+    "english": "between",
+    "category": "relation"
+  },
+  {
+    "english": "than / compared with",
+    "category": "relation"
+  },
+  {
+    "english": "manner marker",
+    "category": "particle"
+  },
+  {
+    "english": "more",
+    "category": "degree"
+  },
+  {
+    "english": "most",
+    "category": "degree"
+  },
+  {
+    "english": "very",
+    "category": "degree"
+  },
+  {
+    "english": "equally",
+    "category": "degree"
+  },
+  {
+    "english": "can / able",
+    "category": "modal"
+  },
+  {
+    "english": "must / obliged",
+    "category": "modal"
+  },
+  {
+    "english": "want",
+    "category": "modal/verb"
+  },
+  {
+    "english": "be",
+    "category": "verb"
+  },
+  {
+    "english": "exist",
+    "category": "verb"
+  },
+  {
+    "english": "see",
+    "category": "verb"
+  },
+  {
+    "english": "hear",
+    "category": "verb"
+  },
+  {
+    "english": "look at",
+    "category": "verb"
+  },
+  {
+    "english": "know",
+    "category": "verb"
+  },
+  {
+    "english": "understand",
+    "category": "verb"
+  },
+  {
+    "english": "learn",
+    "category": "verb"
+  },
+  {
+    "english": "teach",
+    "category": "verb"
+  },
+  {
+    "english": "read",
+    "category": "verb"
+  },
+  {
+    "english": "write",
+    "category": "verb"
+  },
+  {
+    "english": "speak / say",
+    "category": "verb"
+  },
+  {
+    "english": "ask",
+    "category": "verb"
+  },
+  {
+    "english": "eat",
+    "category": "verb"
+  },
+  {
+    "english": "drink",
+    "category": "verb"
+  },
+  {
+    "english": "go",
+    "category": "verb"
+  },
+  {
+    "english": "come",
+    "category": "verb"
+  },
+  {
+    "english": "walk",
+    "category": "verb"
+  },
+  {
+    "english": "run",
+    "category": "verb"
+  },
+  {
+    "english": "sleep",
+    "category": "verb"
+  },
+  {
+    "english": "sit",
+    "category": "verb"
+  },
+  {
+    "english": "stand",
+    "category": "verb"
+  },
+  {
+    "english": "stay",
+    "category": "verb"
+  },
+  {
+    "english": "live / be alive",
+    "category": "verb"
+  },
+  {
+    "english": "die",
+    "category": "verb"
+  },
+  {
+    "english": "help",
+    "category": "verb"
+  },
+  {
+    "english": "love",
+    "category": "verb"
+  },
+  {
+    "english": "like / enjoy",
+    "category": "verb"
+  },
+  {
+    "english": "need",
+    "category": "verb"
+  },
+  {
+    "english": "have / possess",
+    "category": "verb"
+  },
+  {
+    "english": "give",
+    "category": "verb"
+  },
+  {
+    "english": "take",
+    "category": "verb"
+  },
+  {
+    "english": "bring",
+    "category": "verb"
+  },
+  {
+    "english": "make / cause",
+    "category": "verb"
+  },
+  {
+    "english": "use",
+    "category": "verb"
+  },
+  {
+    "english": "work",
+    "category": "verb"
+  },
+  {
+    "english": "open",
+    "category": "verb"
+  },
+  {
+    "english": "close",
+    "category": "verb"
+  },
+  {
+    "english": "begin",
+    "category": "verb"
+  },
+  {
+    "english": "finish",
+    "category": "verb"
+  },
+  {
+    "english": "allow",
+    "category": "verb"
+  },
+  {
+    "english": "choose",
+    "category": "verb"
+  },
+  {
+    "english": "buy",
+    "category": "verb"
+  },
+  {
+    "english": "sell",
+    "category": "verb"
+  },
+  {
+    "english": "find",
+    "category": "verb"
+  },
+  {
+    "english": "lose",
+    "category": "verb"
+  },
+  {
+    "english": "remember",
+    "category": "verb"
+  },
+  {
+    "english": "forget",
+    "category": "verb"
+  },
+  {
+    "english": "think",
+    "category": "verb"
+  },
+  {
+    "english": "feel",
+    "category": "verb"
+  },
+  {
+    "english": "wait",
+    "category": "verb"
+  },
+  {
+    "english": "touch",
+    "category": "verb"
+  },
+  {
+    "english": "cut",
+    "category": "verb"
+  },
+  {
+    "english": "become",
+    "category": "verb"
+  },
+  {
+    "english": "person",
+    "category": "noun"
+  },
+  {
+    "english": "child",
+    "category": "noun"
+  },
+  {
+    "english": "parent",
+    "category": "noun"
+  },
+  {
+    "english": "mother",
+    "category": "noun"
+  },
+  {
+    "english": "father",
+    "category": "noun"
+  },
+  {
+    "english": "sibling",
+    "category": "noun"
+  },
+  {
+    "english": "family",
+    "category": "noun"
+  },
+  {
+    "english": "friend",
+    "category": "noun"
+  },
+  {
+    "english": "body",
+    "category": "noun"
+  },
+  {
+    "english": "head",
+    "category": "noun"
+  },
+  {
+    "english": "eye",
+    "category": "noun"
+  },
+  {
+    "english": "ear",
+    "category": "noun"
+  },
+  {
+    "english": "mouth",
+    "category": "noun"
+  },
+  {
+    "english": "hand",
+    "category": "noun"
+  },
+  {
+    "english": "foot",
+    "category": "noun"
+  },
+  {
+    "english": "heart",
+    "category": "noun"
+  },
+  {
+    "english": "skin",
+    "category": "noun"
+  },
+  {
+    "english": "water",
+    "category": "noun"
+  },
+  {
+    "english": "food",
+    "category": "noun"
+  },
+  {
+    "english": "air",
+    "category": "noun"
+  },
+  {
+    "english": "fire",
+    "category": "noun"
+  },
+  {
+    "english": "earth / soil",
+    "category": "noun"
+  },
+  {
+    "english": "sun",
+    "category": "noun"
+  },
+  {
+    "english": "moon",
+    "category": "noun"
+  },
+  {
+    "english": "star",
+    "category": "noun"
+  },
+  {
+    "english": "sky",
+    "category": "noun"
+  },
+  {
+    "english": "rain",
+    "category": "noun"
+  },
+  {
+    "english": "river",
+    "category": "noun"
+  },
+  {
+    "english": "sea",
+    "category": "noun"
+  },
+  {
+    "english": "mountain",
+    "category": "noun"
+  },
+  {
+    "english": "tree",
+    "category": "noun"
+  },
+  {
+    "english": "plant",
+    "category": "noun"
+  },
+  {
+    "english": "animal",
+    "category": "noun"
+  },
+  {
+    "english": "bird",
+    "category": "noun"
+  },
+  {
+    "english": "fish",
+    "category": "noun"
+  },
+  {
+    "english": "stone",
+    "category": "noun"
+  },
+  {
+    "english": "house / home",
+    "category": "noun"
+  },
+  {
+    "english": "room",
+    "category": "noun"
+  },
+  {
+    "english": "door",
+    "category": "noun"
+  },
+  {
+    "english": "book",
+    "category": "noun"
+  },
+  {
+    "english": "paper",
+    "category": "noun"
+  },
+  {
+    "english": "clothing",
+    "category": "noun"
+  },
+  {
+    "english": "tool",
+    "category": "noun"
+  },
+  {
+    "english": "road / path",
+    "category": "noun"
+  },
+  {
+    "english": "city",
+    "category": "noun"
+  },
+  {
+    "english": "country",
+    "category": "noun"
+  },
+  {
+    "english": "world",
+    "category": "noun"
+  },
+  {
+    "english": "place",
+    "category": "noun"
+  },
+  {
+    "english": "time",
+    "category": "noun"
+  },
+  {
+    "english": "day",
+    "category": "noun"
+  },
+  {
+    "english": "night",
+    "category": "noun"
+  },
+  {
+    "english": "week",
+    "category": "noun"
+  },
+  {
+    "english": "month",
+    "category": "noun"
+  },
+  {
+    "english": "year",
+    "category": "noun"
+  },
+  {
+    "english": "name",
+    "category": "noun"
+  },
+  {
+    "english": "word",
+    "category": "noun"
+  },
+  {
+    "english": "language",
+    "category": "noun"
+  },
+  {
+    "english": "idea",
+    "category": "noun"
+  },
+  {
+    "english": "life",
+    "category": "noun"
+  },
+  {
+    "english": "money",
+    "category": "noun"
+  },
+  {
+    "english": "number",
+    "category": "noun"
+  },
+  {
+    "english": "question",
+    "category": "noun"
+  },
+  {
+    "english": "answer",
+    "category": "noun"
+  },
+  {
+    "english": "problem",
+    "category": "noun"
+  },
+  {
+    "english": "good",
+    "category": "description"
+  },
+  {
+    "english": "bad",
+    "category": "description"
+  },
+  {
+    "english": "large",
+    "category": "description"
+  },
+  {
+    "english": "small",
+    "category": "description"
+  },
+  {
+    "english": "long",
+    "category": "description"
+  },
+  {
+    "english": "short",
+    "category": "description"
+  },
+  {
+    "english": "new",
+    "category": "description"
+  },
+  {
+    "english": "old (age)",
+    "category": "description"
+  },
+  {
+    "english": "former",
+    "category": "description"
+  },
+  {
+    "english": "hot",
+    "category": "description"
+  },
+  {
+    "english": "cold",
+    "category": "description"
+  },
+  {
+    "english": "clean",
+    "category": "description"
+  },
+  {
+    "english": "dirty",
+    "category": "description"
+  },
+  {
+    "english": "easy",
+    "category": "description"
+  },
+  {
+    "english": "difficult",
+    "category": "description"
+  },
+  {
+    "english": "fast",
+    "category": "description"
+  },
+  {
+    "english": "slow",
+    "category": "description"
+  },
+  {
+    "english": "happy",
+    "category": "description"
+  },
+  {
+    "english": "sad",
+    "category": "description"
+  },
+  {
+    "english": "ill",
+    "category": "description"
+  },
+  {
+    "english": "healthy",
+    "category": "description"
+  },
+  {
+    "english": "strong",
+    "category": "description"
+  },
+  {
+    "english": "weak",
+    "category": "description"
+  },
+  {
+    "english": "true",
+    "category": "description"
+  },
+  {
+    "english": "false",
+    "category": "description"
+  },
+  {
+    "english": "same",
+    "category": "description"
+  },
+  {
+    "english": "different",
+    "category": "description"
+  },
+  {
+    "english": "important",
+    "category": "description"
+  },
+  {
+    "english": "beautiful",
+    "category": "description"
+  },
+  {
+    "english": "full",
+    "category": "description"
+  },
+  {
+    "english": "empty",
+    "category": "description"
+  },
+  {
+    "english": "red",
+    "category": "description"
+  },
+  {
+    "english": "yellow",
+    "category": "description"
+  },
+  {
+    "english": "green",
+    "category": "description"
+  },
+  {
+    "english": "blue",
+    "category": "description"
+  },
+  {
+    "english": "black",
+    "category": "description"
+  },
+  {
+    "english": "white",
+    "category": "description"
+  },
+  {
+    "english": "near",
+    "category": "description"
+  },
+  {
+    "english": "far",
+    "category": "description"
+  },
+  {
+    "english": "here",
+    "category": "adverb"
+  },
+  {
+    "english": "there",
+    "category": "adverb"
+  },
+  {
+    "english": "now",
+    "category": "adverb"
+  },
+  {
+    "english": "yesterday",
+    "category": "adverb"
+  },
+  {
+    "english": "today",
+    "category": "adverb"
+  },
+  {
+    "english": "tomorrow",
+    "category": "adverb"
+  },
+  {
+    "english": "always",
+    "category": "adverb"
+  },
+  {
+    "english": "sometimes",
+    "category": "adverb"
+  },
+  {
+    "english": "never",
+    "category": "adverb"
+  },
+  {
+    "english": "before",
+    "category": "relation"
+  },
+  {
+    "english": "after",
+    "category": "relation"
+  },
+  {
+    "english": "inside",
+    "category": "description"
+  },
+  {
+    "english": "outside",
+    "category": "description"
+  },
+  {
+    "english": "left",
+    "category": "description"
+  },
+  {
+    "english": "right",
+    "category": "description"
+  },
+  {
+    "english": "zero",
+    "category": "number"
+  },
+  {
+    "english": "one",
+    "category": "number"
+  },
+  {
+    "english": "two",
+    "category": "number"
+  },
+  {
+    "english": "three",
+    "category": "number"
+  },
+  {
+    "english": "four",
+    "category": "number"
+  },
+  {
+    "english": "five",
+    "category": "number"
+  },
+  {
+    "english": "six",
+    "category": "number"
+  },
+  {
+    "english": "seven",
+    "category": "number"
+  },
+  {
+    "english": "eight",
+    "category": "number"
+  },
+  {
+    "english": "nine",
+    "category": "number"
+  },
+  {
+    "english": "ten",
+    "category": "number"
+  },
+  {
+    "english": "hundred",
+    "category": "number"
+  },
+  {
+    "english": "thousand",
+    "category": "number"
+  },
+  {
+    "english": "digit sequence",
+    "category": "particle"
+  },
+  {
+    "english": "decimal point",
+    "category": "particle"
+  },
+  {
+    "english": "negative number",
+    "category": "particle"
+  },
+  {
+    "english": "divided by",
+    "category": "particle"
+  },
+  {
+    "english": "ordinal marker",
+    "category": "particle"
+  },
+  {
+    "english": "hello",
+    "category": "phrase"
+  },
+  {
+    "english": "goodbye",
+    "category": "phrase"
+  },
+  {
+    "english": "please",
+    "category": "phrase"
+  },
+  {
+    "english": "thank you",
+    "category": "phrase"
+  },
+  {
+    "english": "you are welcome",
+    "category": "phrase"
+  },
+  {
+    "english": "sorry",
+    "category": "phrase"
+  },
+  {
+    "english": "a / an",
+    "category": "grammar"
+  },
+  {
+    "english": "can / be able to",
+    "category": "modal"
+  },
+  {
+    "english": "future / will",
+    "category": "particle"
+  },
+  {
+    "english": "must / have to",
+    "category": "modal"
+  },
+  {
+    "english": "no / not",
+    "category": "particle"
+  },
+  {
+    "english": "of / possessive link",
+    "category": "relation"
+  },
+  {
+    "english": "ongoing action",
+    "category": "particle"
+  },
+  {
+    "english": "question marker",
+    "category": "particle"
+  },
+  {
+    "english": "the",
+    "category": "grammar"
+  },
+  {
+    "english": "you",
+    "category": "pronoun"
+  },
+  {
+    "english": "you all",
+    "category": "pronoun"
+  },
+  {
+    "english": "above / over",
+    "category": "relation"
+  },
+  {
+    "english": "below / under",
+    "category": "relation"
+  },
+  {
+    "english": "for / intended for",
+    "category": "relation"
+  },
+  {
+    "english": "how many / how much",
+    "category": "question"
+  },
+  {
+    "english": "left (direction)",
+    "category": "description"
+  },
+  {
+    "english": "on / on top of",
+    "category": "relation"
+  },
+  {
+    "english": "right (direction)",
+    "category": "description"
+  },
+  {
+    "english": "through",
+    "category": "relation"
+  },
+  {
+    "english": "be / am / is / are",
+    "category": "verb"
+  },
+  {
+    "english": "begin / start",
+    "category": "verb"
+  },
+  {
+    "english": "close / shut",
+    "category": "verb"
+  },
+  {
+    "english": "do / make",
+    "category": "verb"
+  },
+  {
+    "english": "end / finish",
+    "category": "verb"
+  },
+  {
+    "english": "exist / there is",
+    "category": "verb"
+  },
+  {
+    "english": "have / own",
+    "category": "verb"
+  },
+  {
+    "english": "say / speak",
+    "category": "verb"
+  },
+  {
+    "english": "stay / remain",
+    "category": "verb"
+  },
+  {
+    "english": "arm",
+    "category": "noun"
+  },
+  {
+    "english": "back (body)",
+    "category": "noun"
+  },
+  {
+    "english": "city / town",
+    "category": "noun"
+  },
+  {
+    "english": "country / nation",
+    "category": "noun"
+  },
+  {
+    "english": "face",
+    "category": "noun"
+  },
+  {
+    "english": "home / house",
+    "category": "noun"
+  },
+  {
+    "english": "light",
+    "category": "noun"
+  },
+  {
+    "english": "man",
+    "category": "noun"
+  },
+  {
+    "english": "person / human",
+    "category": "noun"
+  },
+  {
+    "english": "thing / object",
+    "category": "noun"
+  },
+  {
+    "english": "way / method",
+    "category": "noun"
+  },
+  {
+    "english": "woman",
+    "category": "noun"
+  },
+  {
+    "english": "big / large",
+    "category": "description"
+  },
+  {
+    "english": "fast / quickly",
+    "category": "description"
+  },
+  {
+    "english": "few / little (quantity)",
+    "category": "quantifier"
+  },
+  {
+    "english": "good / well",
+    "category": "description"
+  },
+  {
+    "english": "many / much",
+    "category": "quantifier"
+  },
+  {
+    "english": "most (comparison)",
+    "category": "degree"
+  },
+  {
+    "english": "old / former (not new)",
+    "category": "description"
+  },
+  {
+    "english": "only",
+    "category": "degree"
+  },
+  {
+    "english": "sick / ill",
+    "category": "description"
+  },
+  {
+    "english": "slow / slowly",
+    "category": "description"
+  },
+  {
+    "english": "true / correct",
+    "category": "description"
+  },
+  {
+    "english": "wrong / incorrect",
+    "category": "description"
+  },
+  {
+    "english": "excuse me / sorry",
+    "category": "phrase"
+  },
+  {
+    "english": "you're welcome",
+    "category": "phrase"
+  },
+  {
+    "english": "he",
+    "category": "pronoun"
+  },
+  {
+    "english": "she",
+    "category": "pronoun"
+  },
+  {
+    "english": "it",
+    "category": "pronoun"
+  },
+  {
+    "english": "one / people",
+    "category": "pronoun/noun"
+  },
+  {
+    "english": "my",
+    "category": "relation"
+  },
+  {
+    "english": "your",
+    "category": "relation"
+  },
+  {
+    "english": "whether / question marker",
+    "category": "particle"
+  },
+  {
+    "english": "that (clause)",
+    "category": "particle"
+  },
+  {
+    "english": "in",
+    "category": "relation"
+  },
+  {
+    "english": "on",
+    "category": "relation"
+  },
+  {
+    "english": "over",
+    "category": "relation"
+  },
+  {
+    "english": "to",
+    "category": "relation"
+  },
+  {
+    "english": "from / of",
+    "category": "relation"
+  },
+  {
+    "english": "about",
+    "category": "relation"
+  },
+  {
+    "english": "before (place or time)",
+    "category": "relation"
+  },
+  {
+    "english": "until",
+    "category": "relation"
+  },
+  {
+    "english": "how much",
+    "category": "question"
+  },
+  {
+    "english": "this (thing)",
+    "category": "determiner/pronoun"
+  },
+  {
+    "english": "that (thing)",
+    "category": "determiner/pronoun"
+  },
+  {
+    "english": "often",
+    "category": "adverb"
+  },
+  {
+    "english": "also",
+    "category": "adverb"
+  },
+  {
+    "english": "already",
+    "category": "adverb"
+  },
+  {
+    "english": "still / yet",
+    "category": "adverb"
+  },
+  {
+    "english": "together",
+    "category": "relation"
+  },
+  {
+    "english": "well",
+    "category": "adverb"
+  },
+  {
+    "english": "clearly",
+    "category": "adverb"
+  },
+  {
+    "english": "carefully",
+    "category": "adverb"
+  },
+  {
+    "english": "have",
+    "category": "verb"
+  },
+  {
+    "english": "speak",
+    "category": "verb"
+  },
+  {
+    "english": "say",
+    "category": "verb"
+  },
+  {
+    "english": "know (a fact)",
+    "category": "verb"
+  },
+  {
+    "english": "know (be acquainted)",
+    "category": "verb"
+  },
+  {
+    "english": "can / be able",
+    "category": "modal"
+  },
+  {
+    "english": "live",
+    "category": "verb"
+  },
+  {
+    "english": "play",
+    "category": "verb"
+  },
+  {
+    "english": "like",
+    "category": "verb"
+  },
+  {
+    "english": "ask (a question)",
+    "category": "verb"
+  },
+  {
+    "english": "repeat",
+    "category": "verb"
+  },
+  {
+    "english": "big",
+    "category": "description"
+  },
+  {
+    "english": "old (not new)",
+    "category": "description"
+  },
+  {
+    "english": "young",
+    "category": "description"
+  },
+  {
+    "english": "clear",
+    "category": "description"
+  },
+  {
+    "english": "other",
+    "category": "description"
+  },
+  {
+    "english": "Esperanto",
+    "category": "noun"
+  },
+  {
+    "english": "sentence",
+    "category": "noun"
+  },
+  {
+    "english": "school",
+    "category": "noun"
+  },
+  {
+    "english": "teacher",
+    "category": "noun"
+  },
+  {
+    "english": "student",
+    "category": "noun"
+  },
+  {
+    "english": "house",
+    "category": "noun"
+  },
+  {
+    "english": "window",
+    "category": "noun"
+  },
+  {
+    "english": "table",
+    "category": "noun"
+  },
+  {
+    "english": "chair",
+    "category": "noun"
+  },
+  {
+    "english": "garden",
+    "category": "noun"
+  },
+  {
+    "english": "country (land)",
+    "category": "noun"
+  },
+  {
+    "english": "road",
+    "category": "noun"
+  },
+  {
+    "english": "bread",
+    "category": "noun"
+  },
+  {
+    "english": "fruit",
+    "category": "noun"
+  },
+  {
+    "english": "apple",
+    "category": "noun"
+  },
+  {
+    "english": "milk",
+    "category": "noun"
+  },
+  {
+    "english": "tea",
+    "category": "noun"
+  },
+  {
+    "english": "coffee",
+    "category": "noun"
+  },
+  {
+    "english": "salt",
+    "category": "noun"
+  },
+  {
+    "english": "earth (soil)",
+    "category": "noun"
+  },
+  {
+    "english": "flower",
+    "category": "noun"
+  },
+  {
+    "english": "dog",
+    "category": "noun"
+  },
+  {
+    "english": "cat",
+    "category": "noun"
+  },
+  {
+    "english": "morning",
+    "category": "noun"
+  },
+  {
+    "english": "evening",
+    "category": "noun"
+  },
+  {
+    "english": "hour",
+    "category": "noun"
+  },
+  {
+    "english": "health",
+    "category": "noun"
+  },
+  {
+    "english": "peace",
+    "category": "noun"
+  },
+  {
+    "english": "music",
+    "category": "noun"
+  },
+  {
+    "english": "answer (noun)",
+    "category": "noun"
+  },
+  {
+    "english": "goal",
+    "category": "noun"
+  },
+  {
+    "english": "choir",
+    "category": "noun"
+  },
+  {
+    "english": "newspaper",
+    "category": "noun"
+  },
+  {
+    "english": "condition",
+    "category": "noun"
+  },
+  {
+    "english": "related",
+    "category": "description"
+  },
+  {
+    "english": "reference",
+    "category": "noun"
+  },
+  {
+    "english": "manner",
+    "category": "noun"
+  },
+  {
+    "english": "sequence",
+    "category": "noun"
+  },
+  {
+    "english": "digit",
+    "category": "noun"
+  },
+  {
+    "english": "decimal",
+    "category": "description"
+  },
+  {
+    "english": "point",
+    "category": "noun"
+  },
+  {
+    "english": "negative",
+    "category": "description"
+  },
+  {
+    "english": "minus",
+    "category": "particle"
+  },
+  {
+    "english": "divide",
+    "category": "particle"
+  }
+]

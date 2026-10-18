@@ -1,0 +1,398 @@
+english,lojban,category,notes
+I / me,mi,pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+you (singular),do,pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+he / she / it,ri,pronoun,Refers back to a preceding sumti; not a general gendered third-person pronoun.
+we / us,mi'o,pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+you (plural),do,pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+they / them,ri,pronoun,Refers back to a preceding sumti; not a general gendered third-person pronoun.
+self,vo'a,pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+someone,da,pronoun/noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+this / these,ti,determiner/pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+that / those,ta,determiner/pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+plural,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+some,su'o,quantifier,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+all / every,ro,quantifier,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+few / little quantity,so'u,quantifier,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+of / related to,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+and,.e,connector,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+or,.a,connector,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+but,ku'i,connector,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+because,ki'u,connector,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+if,ganai,connector,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+end condition,gi,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+past,pu,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+future,ba,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+ongoing,ca'o,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+completed,mo'u,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+not / no,na,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+yes,go'i,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+yes/no question,xu,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+who,ma,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+what,ma,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+where,bu'u ma,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+when,ca ma,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+how,ta'i ma,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+how many / much,xo,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+why,ki'u ma,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+which,ma,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+content clause start,du'u,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+content clause end,kei,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+relative clause start,poi,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+relative clause end,ku'o,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+relative reference,ke'a,pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+at / in,bu'u,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+on / above,gapru,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+under,cnita,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+to / toward,fa'a,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+from,fi'o se krasi,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+with,kansa,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+without,claxu,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+for,fi'o se xamgu,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+using / by means of,pi'o,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+between,jbini,relation,Gismu keyword; this is a predicate with ordered argument places. Consult the official gismu list for the complete place structure.
+than / compared with,mau,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+manner marker,—,particle,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+more,zmadu,degree,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+most,traji,degree,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+very,mutce,degree,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+equally,dunli,degree,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+can / able,kakne,modal,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+must / obliged,bilga,modal,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+want,djica,modal/verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+be,du,verb,Equality only; ordinary predication uses a selbri without a general English-style copula.
+exist,zasti,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+see,viska,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+hear,tirna,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+look at,catlu,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+know,djuno,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+understand,jimpe,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+learn,cilre,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+teach,ctuca,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+read,tcidu,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+write,ciska,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+speak / say,tavla / cusku,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+ask,preti,verb,Predicate: x1 is a question about x2 by questioner x3 to audience x4.
+eat,citka,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+drink,pinxe,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+go,klama,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+come,klama,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+walk,cadzu,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+run,bajra,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sleep,sipna,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sit,zutse,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+stand,sanli,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+stay,stali,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+live / be alive,jmive,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+die,morsi,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+help,sidju,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+love,prami,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+like / enjoy,nelci,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+need,nitcu,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+have / possess,ponse,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+give,dunda,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+take,lebna,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+bring,bevri,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+make / cause,zbasu / rinka,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+use,pilno,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+work,gunka,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+open,kalri,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+close,ganlo,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+begin,cfari,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+finish,mulno,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+allow,curmi,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+choose,cuxna,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+buy,te vecnu,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sell,vecnu,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+find,facki,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+lose,—,verb,No verified equivalent supplied in this edition; cau is a modal meaning without rather than a verb lose.
+remember,morji,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+forget,tolmo'i,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+think,pensi,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+feel,cinmo,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+wait,denpa,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+touch,pencu,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+cut,katna,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+become,binxo,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+person,prenu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+child,verba,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+parent,rirni,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+mother,mamta,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+father,patfu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sibling,tunba,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+family,lanzu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+friend,pendo,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+body,xadni,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+head,stedu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+eye,kanla,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+ear,kerlo,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+mouth,moklu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+hand,xance,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+foot,jamfu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+heart,risna,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+skin,skapi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+water,djacu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+food,cidja,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+air,vacri,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+fire,fagri,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+earth / soil,dertu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sun,solri,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+moon,lunra,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+star,tarci,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sky,tsani,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+rain,carvi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+river,rirxe,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sea,xamsi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+mountain,cmana,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+tree,tricu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+plant,spati,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+animal,danlu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+bird,cipni,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+fish,finpe,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+stone,rokci,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+house / home,zdani,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+room,kumfa,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+door,vrogai,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+book,cukta,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+paper,pelji,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+clothing,taxfu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+tool,tutci,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+road / path,dargu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+city,tcadu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+country,gugde,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+world,munje,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+place,stuzi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+time,temci,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+day,djedi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+night,nicte,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+week,jeftu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+month,masti,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+year,nanca,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+name,cmene,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+word,valsi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+language,bangu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+idea,sidbo,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+life,nu jmive,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+money,jdini,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+number,namcu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+question,preti,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+answer,danfu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+problem,nabmi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+good,xamgu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+bad,xlali,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+large,barda,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+small,cmalu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+long,clani,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+short,tordu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+new,cnino,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+old (age),—,description,slabu means familiar/known/old in a relationship; it does not directly encode advanced age.
+former,pu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+hot,glare,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+cold,lenku,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+clean,jinsa,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+dirty,to'e jinsa,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+easy,frili,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+difficult,nandu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+fast,sutra,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+slow,masno,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+happy,gleki,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sad,badri,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+ill,bilma,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+healthy,kanro,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+strong,tsali,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+weak,ruble,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+true,jetnu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+false,jitfa,description,Learning equivalent; use the guide to check sense and construction.
+same,mintu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+different,drata,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+important,vajni,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+beautiful,melbi,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+full,culno,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+empty,kunti,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+red,xunre,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+yellow,pelxu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+green,crino,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+blue,blanu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+black,xekri,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+white,blabi,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+near,jibni,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+far,darno,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+here,bu'u ti,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+there,bu'u ta,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+now,ca,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+yesterday,prulamdei,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+today,cabdei,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+tomorrow,bavlamdei,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+always,ro roi,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sometimes,su'o roi,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+never,no roi,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+before,pu,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+after,ba,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+inside,nenri,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+outside,bartu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+left,zunle,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+right,pritu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+zero,no,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+one,pa,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+two,re,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+three,ci,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+four,vo,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+five,mu,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+six,xa,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+seven,ze,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+eight,bi,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+nine,so,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+ten,pa no,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+hundred,pa no no,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+thousand,pa no no no,number,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+digit sequence,li,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+decimal point,pi,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+negative number,ni'u,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+divided by,fi'u,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+ordinal marker,moi,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+hello,coi,phrase,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+goodbye,co'o,phrase,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+please,pe'u,phrase,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+thank you,ki'e,phrase,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+you are welcome,je'e,phrase,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sorry,u'u,phrase,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+a / an,lo,grammar,Descriptive sumti marker; does not correspond directly to English definiteness.
+can / be able to,kakne,modal,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+future / will,ba,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+must / have to,bilga,modal,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+no / not,na,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+of / possessive link,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+ongoing action,ca'o,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+question marker,xu,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+the,lo,grammar,Descriptive sumti marker; does not correspond directly to English definiteness.
+you,do,pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+you all,do,pronoun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+above / over,gapru,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+below / under,cnita,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+for / intended for,fi'o se xamgu,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+how many / how much,xo,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+left (direction),zunle,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+on / on top of,cpana,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+right (direction),pritu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+through,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+be / am / is / are,du,verb,Equality only; ordinary predication uses a selbri without a general English-style copula.
+begin / start,cfari,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+close / shut,ganlo,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+do / make,zbasu / rinka,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+end / finish,mulno,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+exist / there is,zasti,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+have / own,ponse,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+say / speak,tavla / cusku,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+stay / remain,stali,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+arm,birka,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+back (body),trixe,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+city / town,tcadu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+country / nation,gugde,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+face,flira,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+home / house,zdani,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+light,gusni,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+man,nanmu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+person / human,prenu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+thing / object,dacti,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+way / method,tadji,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+woman,ninmu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+big / large,barda,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+fast / quickly,sutra,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+few / little (quantity),so'u,quantifier,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+good / well,xamgu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+many / much,so'i,quantifier,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+most (comparison),traji,degree,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+old / former (not new),pu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+only,po'o,degree,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+sick / ill,bilma,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+slow / slowly,masno,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+true / correct,jetnu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+wrong / incorrect,jitfa,description,Learning equivalent; use the guide to check sense and construction.
+excuse me / sorry,u'u,phrase,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+you're welcome,je'e,phrase,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+he,ri,pronoun,Refers back to a preceding sumti; not a general gendered third-person pronoun.
+she,ri,pronoun,Refers back to a preceding sumti; not a general gendered third-person pronoun.
+it,ri,pronoun,Refers back to a preceding sumti; not a general gendered third-person pronoun.
+one / people,—,pronoun/noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+my,pe mi,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+your,pe do,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+whether / question marker,xu,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+that (clause),du'u,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+in,nenri,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+on,cpana,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+over,gapru,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+to,fa'a,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+from / of,—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+about,srana,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+before (place or time),—,relation,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+until,co'u,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+how much,xo,question,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+this (thing),—,determiner/pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+that (thing),—,determiner/pronoun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+often,so'i roi,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+also,ji'a,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+already,ba'o,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+still / yet,ca'o,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+together,kansa,relation,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+well,xamgu,adverb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+clearly,—,adverb,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+carefully,—,adverb,No verified manner construction supplied in this edition.
+have,ponse,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+speak,tavla / cusku,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+say,tavla / cusku,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+know (a fact),djuno,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+know (be acquainted),djuno,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+can / be able,kakne,modal,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+live,jmive,verb,Gismu keyword; this is a predicate with ordered argument places. Consult the official gismu list for the complete place structure.
+play,kelci,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+like,nelci,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+ask (a question),preti,verb,Predicate: x1 is a question about x2 by questioner x3 to audience x4.
+repeat,rapli,verb,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+big,barda,description,Gismu keyword; this is a predicate with ordered argument places. Consult the official gismu list for the complete place structure.
+old (not new),pu,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+young,citno,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+clear,klina,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+other,drata,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+Esperanto,—,noun,Use an explicitly quoted language name; no verified borrowing supplied in this edition.
+sentence,jufra,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+school,ckule,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+teacher,ctuca,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+student,tadni,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+house,zdani,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+window,canko,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+table,jubme,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+chair,stizu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+garden,purdi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+country (land),gugde,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+road,dargu,noun,Gismu keyword; this is a predicate with ordered argument places. Consult the official gismu list for the complete place structure.
+bread,nanba,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+fruit,grute,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+apple,plise,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+milk,ladru,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+tea,tcati,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+coffee,ckafi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+salt,silka,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+earth (soil),dertu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+flower,xrula,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+dog,gerku,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+cat,mlatu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+morning,cerni,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+evening,vanci,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+hour,cacra,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+health,ka kanro,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+peace,panpi,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+music,zgike,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+answer (noun),danfu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+goal,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+choir,—,noun,No verified equivalent supplied in this edition.
+newspaper,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+condition,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+related,ckini,description,Gismu keyword; this is a predicate with ordered argument places. Consult the official gismu list for the complete place structure.
+reference,manri,noun,Gismu keyword; this is a predicate with ordered argument places. Consult the official gismu list for the complete place structure.
+manner,—,noun,No verified equivalent supplied in this edition; retained for exact shared English lookup coverage. This does not establish historical absence.
+sequence,porsi,noun,Gismu keyword; this is a predicate with ordered argument places. Consult the official gismu list for the complete place structure.
+digit,namcu,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+decimal,saclu,description,Gismu keyword; this is a predicate with ordered argument places. Consult the official gismu list for the complete place structure.
+point,mokca,noun,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+negative,ni'u,description,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+minus,vu'u,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
+divide,fe'i,particle,Learning gloss or construction; predicate places and logical scope must be supplied by the full sentence.
